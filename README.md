@@ -13,3 +13,6 @@ Sample website with plenty of files for demos
 body text in how to contribute
 
 ## Depolyment
+
+### Copyright
+	Copyright Orion Arlenus P. Dimapilis
