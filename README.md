@@ -10,4 +10,6 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 
+body text in how to contribute
+
 ## Depolyment
