@@ -12,6 +12,7 @@ Sample website with plenty of files for demos
 
 body text in how to contribute
 new line in how to contribute
+New text for rebasing
 
 ## Depolyment
 
