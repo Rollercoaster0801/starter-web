@@ -20,3 +20,4 @@ New text for rebasing
 ### Copyright
 	Copyright Orion Arlenus P. Dimapilis
 	all rights reserved
+	emergency fix after stash
